@@ -40,7 +40,7 @@
 
 ## Command cat:
 
-* A screenshot or Markdown code block showing the command and its output
+* A screenshot or Markdown code block showing the command and its output.
 
 <img width="279" alt="image" src="https://github.com/Sam110120/cse15l-lab-reports/assets/71369089/67368d0a-8614-4a1e-8c8a-af40b2a31d28">
     

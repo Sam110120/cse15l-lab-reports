@@ -41,18 +41,19 @@
 ## Command cat:
 
 * A screenshot or Markdown code block showing the command and its output
+
 <img width="279" alt="image" src="https://github.com/Sam110120/cse15l-lab-reports/assets/71369089/67368d0a-8614-4a1e-8c8a-af40b2a31d28">
     
     - When there is no argument, the program will somehow crush (no longer able to input command line next). I have to open up a new terminal in order for me to keep working.
 
 <img width="694" alt="image" src="https://github.com/Sam110120/cse15l-lab-reports/assets/71369089/94ec83d3-4f0f-49ae-8543-e2c5c3cda454">
     
-    - The command cat is used to print the contents of one or more files given by the paths. I created another folder within the directory "lecture1" and use the command cat. Since both of them are directories, it will cause an error saying that given path is directory.
+    - The command cat is used to print the contents of one or more files given by the paths. I created another folder within the directory "lecture1" and used the command cat. Since both of them are directories, it will cause an error saying that the given path is a directory.
 
 <img width="638" alt="image" src="https://github.com/Sam110120/cse15l-lab-reports/assets/71369089/ac447405-e2c5-4a06-ad78-0daead63f7d9">
     
-    - When we use a path to a file as an argument (two files for concatenate in this case), it print the contents of both files given by the paths. There is no error.
+    - When we use a path to a file as an argument (two files for concatenate in this case), it prints the contents of both files given by the paths. There is no error.
 
 * What the working directory was when the command was run
   
-    - The working directory was at /home when the command started to run. Then it changes to /home/lecture1 as I enter the lecture1 folder for convinence.
+    - The working directory was at /home when the command started to run. Then it changes to /home/lecture1 as I enter the lecture1 folder for convenience.
